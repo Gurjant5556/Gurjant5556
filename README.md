@@ -2,7 +2,7 @@
 - 👀 I’m interested in ERP and progrming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on a creato video studio
-- 📫 How to reach me gurjant983wgmail.com
+- 📫 How to reach me gurjant983@gmail.com
 
 <!---
 Gurjant5556/Gurjant5556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
